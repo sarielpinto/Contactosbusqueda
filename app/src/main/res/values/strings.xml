@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Búsqueda de contactos</string>
+    <string name="action_settings">Configuración</string>
+    <string name="toolbar_title">Contactos</string>
+    <string name="action_search">Buscar</string>
+    <string name="search_hint">Ingresa el nombre...</string>
+</resources>
